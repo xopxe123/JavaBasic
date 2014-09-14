@@ -1,0 +1,5 @@
+1. Set Classpath.
+2. Navigate to the folder with *.java files.
+3. Write javac "fileName".java - after this you create a file "fileName".class.
+4. Write java "fileName".
+5. Done!

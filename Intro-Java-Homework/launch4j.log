@@ -1,0 +1,24 @@
+
+
+Version:	3.4
+CmdLine:	E:\Programing\Java\workspace\Intro-Java-Homework\_11_JarArhive.exe --l4j-debug
+WOW64:		yes
+Working dir:	E:\Programing\Java\workspace\Intro-Java-Homework\.
+Bundled JRE:	C:\Program Files\Java\jre1.8.0_20\bin
+Check launcher:	C:\Program Files\Java\jre1.8.0_20\bin\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_20
+Check launcher:	C:\Program Files\Java\jre1.8.0_20\bin\javaw.exe (OK)
+Match:		1.8.0_20
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_20
+Ignore:		1.8.0_20
+Runtime used:	1.8.0_20 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_20\bin\javaw.exe
+Launcher args:	-jar "E:\Programing\Java\workspace\Intro-Java-Homework\_11_JarArhive.exe"
+Args length:	73/32768 chars
+Exit code:	0
